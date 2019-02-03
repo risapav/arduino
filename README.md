@@ -1,4 +1,4 @@
-# arduino
+# Školské arduino projekty
 
-##Kolektor
+## Kolektor
 - Návrh solárneho kolektora na ohrev teplej vody.
