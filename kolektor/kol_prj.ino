@@ -3,7 +3,7 @@
     *
     * Crated by Dejan Nedelkovski,
     * www.HowToMechatronics.com
-    * pokus palo
+    * pokus palo peter
     */
 
     #include <OneWire.h>
