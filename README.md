@@ -1,6 +1,4 @@
 # arduino
-jih ugytku
-k yituto
-lkh liutýt
 
-Peter
+##Kolektor
+- Návrh solárneho kolektora na ohrev teplej vody.
