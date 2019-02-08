@@ -9,4 +9,5 @@
  - Ekologické kúrenie
  - Osnova
  - PT_prepis
+ pokus_text
 
