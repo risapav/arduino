@@ -1,3 +1,4 @@
+
 # Školské arduino projekty Peter Riša
 
 ## Kolektor
@@ -8,3 +9,4 @@
  - Ekologické kúrenie
  - Osnova
  - PT_prepis
+
