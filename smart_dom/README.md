@@ -26,6 +26,7 @@
 ## Nastavenie dosky WeMOS Mega
 
 - nastavenie komunikácie medzi jednotlivými časťami procesorovej dosky
+
 |	                             | 1  | 2  | 3  | 4  | 5  | 6  | 7  | 8  | RXD/TXD |
 |--------------------------------|----|----|----|----|----|----|----|----|---------|
 | USB izolovaný                  | -- | -- | -- | -- | -- | -- | -- | -- |    0    |
