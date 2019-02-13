@@ -27,7 +27,7 @@
 
 - nastavenie komunikácie medzi jednotlivými časťami procesorovej dosky
 
-|	                             | 1  | 2  | 3  | 4  | 5  | 6  | 7  | 8  | RXD/TXD |
+|                                | 1  | 2  | 3  | 4  | 5  | 6  | 7  | 8  | RXD/TXD |
 | USB izolovaný                  | -- | -- | -- | -- | -- | -- | -- | -- |    0    |
 | ATmega2560 <-> ESP8266         | ON | ON | -- | -- | -- | -- | -- | -- |    0    |
 | USB <-> ATmega2560 (vloženie)  | -- | -- | ON | ON | -- | -- | -- | -- |    0    |
