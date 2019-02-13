@@ -10,8 +10,8 @@
 const char* htmlfile = "/index.html";
  
 //WiFi Connection configuration
-const char *ssid = "circuits4you.com";
-const char *password = "password";
+const char *ssid = "PRwifi3";
+const char *password = "CicaMica2";
  
  
 ESP8266WebServer server(80);
