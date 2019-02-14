@@ -21,6 +21,7 @@
  
 ## Použitá literatúra
  - https://circuits4you.com/2018/02/03/esp8266-nodemcu-adc-analog-value-on-dial-gauge/
+ - https://github.com/tttapa/ESP8266
  
  
 ## Nastavenie dosky WeMOS Mega
