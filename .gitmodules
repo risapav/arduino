@@ -1,0 +1,3 @@
+[submodule "smart_dom/sw/www_ESP8266/esp8266"]
+	path = smart_dom/sw/www_ESP8266/esp8266
+	url = https://github.com/esp8266/Arduino.git
